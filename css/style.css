@@ -134,21 +134,21 @@ ul, ol {
 }
 
 #menu ul {
-  margin: 0 10px;
-  padding: 0;
+  margin: 0 -5px;
+  padding: 0px 10px;
   list-style:none;
   display: flex;
 }
 
 #menu ul li {
-  margin: 0 5px 0 0;
-  padding: 0;
+  margin: 0 5px 0 5px;
+  padding: 0px;
 }
 
 #menu ul li a {
   display: block;
   position: relative;
-  padding: 5px 15px;
+  padding: 10px 15px;
   border: 0;
   background: #253575;
   color: #B5C4E3;
